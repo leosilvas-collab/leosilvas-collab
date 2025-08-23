@@ -1,4 +1,4 @@
-Início da minha jornada como estudante de Análise e Desenvolvimento de Sistemas - UnicSul
+Início da minha jornada como estudante de Análise e Desenvolvimento de Sistemas - UnicSul.
 
 Olá. Atualizei o meu perfil no LinkedIn e criei um perfil no GitHub, com o objetivo de criar uma rede de contatos com o mesmo interesse em Análise e Desenvolvimento de Sistemas com foco em Full Stack.
 
