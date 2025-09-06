@@ -4,7 +4,7 @@ Olá. Atualizei o meu perfil no LinkedIn e criei um perfil no GitHub, com o obje
 
 Feedback são bem vindos.
 
-Meu perfil no LinkedIn > https://lnkd.in/e7i7arEt
+Meu perfil no LinkedIn > https://lnkd.in/eXPUik5b
 
 Meu perfil no GitHub > https://lnkd.in/ekhMPv6G
 
