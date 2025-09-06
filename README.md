@@ -1,11 +1,16 @@
-Início da minha jornada como estudante de Análise e Desenvolvimento de Sistemas - UnicSul.
+Sejam bem vindos ao meu perfil no GitHub!
 
-Olá. Atualizei o meu perfil no LinkedIn e criei um perfil no GitHub, com o objetivo de criar uma rede de contatos com o mesmo interesse em Análise e Desenvolvimento de Sistemas com foco em Full Stack.
+Olá. 
 
-Feedback são bem vindos.
+Este é onício da minha jornada como estudante de Análise e Desenvolvimento de Sistemas - na UnicSul 💻.
 
-Meu perfil no LinkedIn > https://lnkd.in/eXPUik5b
+Atualizei o meu perfil no LinkedIn e criei um perfil aqui no GitHub, com o objetivo de criar uma rede de contatos com o mesmo interesse em Análise e Desenvolvimento de Sistemas, com foco em Full Stack.
 
-Meu perfil no GitHub > https://lnkd.in/ekhMPv6G
+Meus trabalhos acadêmicos, análises e também projetos de software na área de Análise e Desenvolvimento de Sistemas serão salvos neste repositório.
+
+Feedback sempre são bem vindos.
+
+📌**[Meu perfil no LinkedIn](https://lnkd.in/eXPUik5b)** 📌
+
 
 #DesenvolvimentoDeSistemas #DesenvolvedorFullstack #Dev #Fullstack
