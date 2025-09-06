@@ -8,4 +8,4 @@ Meu perfil no LinkedIn > https://lnkd.in/eXPUik5b
 
 Meu perfil no GitHub > https://lnkd.in/ekhMPv6G
 
-hashtag#DesenvolvimentoDeSistemas hashtag#DesenvolvedorFullstack hashtag#Dev
+#DesenvolvimentoDeSistemas #DesenvolvedorFullstack #Dev #Fullstack
